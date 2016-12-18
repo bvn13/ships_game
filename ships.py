@@ -1,8 +1,6 @@
 
 import random
 from random import shuffle
-from pip._vendor.distlib._backport.shutil import move
-from macpath import isabs
 
 
 SIZE = 10
